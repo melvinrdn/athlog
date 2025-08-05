@@ -1,0 +1,9 @@
+# Ignore the virtual environment and cache directories
+.venv
+__pycache__
+
+# Ignore Garmin FIT files
+*.fit
+
+# Ignore log files
+rapport_*.txt
